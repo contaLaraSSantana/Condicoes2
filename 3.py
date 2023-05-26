@@ -16,5 +16,5 @@ elif idade >= 12 and idade <= 13:
     print('Juvenil A')
 elif idade >= 14 and idade <= 17:
     print('Juvenil B')
-elif idade > 18:
+elif idade >= 18:
     print('Adultos')
